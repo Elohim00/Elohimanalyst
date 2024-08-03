@@ -49,7 +49,7 @@ The dataset comprises several key variables:
 - **Number of Items Sold:** Total count of items sold.
 - **Average Rating:** Mean customer rating for products and services.
 - 
-  [Sales Performance Dataset](https://github.com/elohim00/Elohimanalyst/raw/main/filename.csv)
+  [Dataset](https://github.com/elohim00/Elohimanalyst/raw/main/BlinkITGroceryData(1).xlsx)
   
 
 ### Data Cleaning
