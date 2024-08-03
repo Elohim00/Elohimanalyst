@@ -47,9 +47,7 @@ The dataset comprises several key variables:
 - **Average Sales:** Mean value of sales per transaction.
 - **Number of Items Sold:** Total count of items sold.
 - **Average Rating:** Mean customer rating for products and services.
-- 
-
- 
+  
 
 ### Data Cleaning
 The data cleaning process in Power BI involved several key steps to ensure data integrity and accuracy:
