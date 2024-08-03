@@ -114,6 +114,7 @@ The project primarily utilized the following tools and libraries:
 
 
 ### Findings
+
 ![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/KPI'S%20VISUALS.png?raw=true)
 
 
@@ -132,21 +133,39 @@ An Average Rating of 3.9 out of 5 signifies overall customer satisfaction with B
 ### Visualizations
 
 #### Outlet Establishment Over Time
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/OUTLET%20ESTABLIHMENT.png?raw=true)
+
 The line chart illustrates the growth of Blinkit’s outlets over the years, highlighting a significant increase around 2015 when sales reached $205K. This surge demonstrates the effectiveness of Blinkit’s market expansion and strategy improvements. For stakeholders, understanding this growth trajectory is crucial for continuing the expansion and maintaining a focus on strategic planning and innovation to sustain the growth momentum.
 
 #### Outlet Size Distribution
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/OUTLET%20SIZE.png?raw=true)
+
 The pie chart presents the distribution of sales across various outlet sizes, showing that medium-sized outlets generate the highest sales at $507.9K, followed by small outlets at $444.8K. This indicates that medium-sized outlets are highly efficient in reaching customers and managing operational costs. The data suggests that allocating resources and planning new outlets should favor the medium size, effectively balancing customer service and cost efficiency.
 
 #### Outlet Locations and Sales Performance
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/OUTLET%20LOCATION.png?raw=true)
+
 The bar chart displays sales performance across different location tiers, with Tier 3 locations leading in sales at $472.1K. This indicates the substantial potential and importance of Tier 3 areas for Blinkit’s revenue. While Tier 1 and Tier 2 locations also contribute, they could benefit from targeted marketing strategies. Understanding the strongest markets and tailoring strategies to optimize performance in each location is key for Blinkit.
 
 #### Fat Content and Sales Distribution
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/FAT%20CONTENT.png?raw=true)
+
 The donut chart reveals that regular fat products yield the highest sales at $776.3K compared to $425.4K from low-fat products. This preference for regular fat products should guide Blinkit’s product development and marketing strategies. Ensuring the availability of popular products and focusing marketing efforts on regular fat items can enhance inventory management and align with customer preferences.
 
 #### Item Type Sales and Rating
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/ITEM%20TYPE.png?raw=true)
+
 The horizontal bar chart ranks item types by sales and average rating, showing that beverages and snacks are the leading categories with sales of $0.18M and $0.14M respectively, both with an average rating of 3.9. This information is vital for inventory management and marketing strategies. By concentrating on high-performing and well-rated items, Blinkit can improve product offerings and customer satisfaction. This focus can also aid in the development of new products that meet customer demands.
 
 #### Outlet Type Performance
+
+![Blinkit BI Project](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/OUTLET%20TYPE.png?raw=true)
+
 The table highlights key performance metrics for different outlet types, with Supermarket Type 3 leading in total sales at $787.5K and an average sale of $147. This indicates effective strategies and high customer attraction. Grocery stores also perform well with a high number of items sold (1083), showcasing strong customer reach. Insights from the performance of Supermarket Type 3 can be applied to other outlets to enhance overall performance.
 
 ## Conclusion
@@ -166,18 +185,6 @@ The Blinkit Dashboard provides a comprehensive analysis of the company’s sales
 4. **Strategic Expansion**: Expanding into medium-sized outlets and Tier 3 locations is recommended. These areas show significant sales potential and operational efficiency, making them ideal targets for future growth initiatives.
 
 5. **Targeted Marketing**: Developing targeted marketing campaigns for high-potential locations and emphasizing popular products can enhance market presence. Tailoring marketing efforts to these areas can drive sales and optimize returns on investment.
-
-## Files
-
-- `Outlet_Establishment_Over_Time.png`
-- `Outlet_Size_Distribution.png`
-- `Outlet_Locations_and_Sales_Performance.png`
-- `Fat_Content_and_Sales_Distribution.png`
-- `Item_Type_Sales_and_Rating.png`
-- `Outlet_Type_Performance.png`
-
-
-
 
 
 ### Future Work
