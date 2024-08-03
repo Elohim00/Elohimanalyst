@@ -112,7 +112,7 @@ The project primarily utilized the following tools and libraries:
    - Visualizations were enhanced with tooltips, providing additional context and details when hovering over data points.
 
 ## Results
-
+![Screenshot of my project](BLINKIT BI PROJECT2.pbix.png)
 
 
 
