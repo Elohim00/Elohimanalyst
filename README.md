@@ -43,6 +43,8 @@ The data used in this project is sourced from Blinkit's sales and customer feedb
 ## Data Description
 
 ### Data Overview
+The dataset used for this analysis can be downloaded  [here](https://github.com/Elohim00/Elohimanalyst/raw/PROJECT/BlinkIT%20Grocery%20Data%20(1).xlsx) .
+
 The dataset comprises several key variables:
 - **Total Sales:** Aggregate revenue from sales transactions.
 - **Average Sales:** Mean value of sales per transaction.
@@ -50,7 +52,7 @@ The dataset comprises several key variables:
 - **Average Rating:** Mean customer rating for products and services.
 - 
 
- [Dataset](https://github.com/Elohim00/Elohimanalyst/raw/PROJECT/BlinkIT%20Grocery%20Data%20(1).xlsx) 
+ 
 
 ### Data Cleaning
 The data cleaning process in Power BI involved several key steps to ensure data integrity and accuracy:
@@ -202,6 +204,3 @@ Future analysis could focus on:
 - Blinkit sales data and customer feedback databases.
 - External sources for additional data validation and analysis techniques.
 
-## Appendices (Optional)
-- Detailed methodology and supplementary analyses.
-- Additional visualizations and insights.
