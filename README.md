@@ -50,7 +50,7 @@ The dataset comprises several key variables:
 - **Average Rating:** Mean customer rating for products and services.
 - 
  [Dataset](https://github.com/elohim00/Elohimanalyst/raw/main/BlinkITGroceryData(1).xlsx)
- [Dataset](https://github.com/elohim00/Elohimanalyst/raw/main/BlinkITGroceryData%281%29.xlsx) 
+ [Dataset](https://github.com/Elohim00/Elohimanalyst/blob/PROJECT/BlinkIT%20Grocery%20Data%20(1).xlsx) 
 
 ### Data Cleaning
 The data cleaning process in Power BI involved several key steps to ensure data integrity and accuracy:
