@@ -14,7 +14,8 @@ This project involves an in-depth analysis of Blinkit's sales performance and cu
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
-6. [References](#references)
+6. [Insights and Recommendations](#insights-and-recommendations)
+7. [References](#references)
 
 ## Project Description
 
