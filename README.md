@@ -113,6 +113,9 @@ The project primarily utilized the following tools and libraries:
 
 ## Results
 
+
+
+
 ### Findings
 
 #### Total Sales: $1.2M
@@ -158,8 +161,7 @@ Future analysis could focus on:
 - Conducting a deeper analysis of customer feedback to identify specific areas for improvement.
 - Implementing predictive analytics to forecast future sales and demand patterns.
 
-### Dependencies
-- Python 3.x
+
 
 ## References
 - Blinkit sales data and customer feedback databases.
