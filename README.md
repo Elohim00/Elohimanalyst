@@ -1,8 +1,6 @@
-# Blinkit Sales Performance Dashboard Analysis
+# Blinkit Sales Performance and Customer Satisfaction Dashboard Analysis
 
 ## Introduction
-
-**Title: Blinkit Sales and Customer Satisfaction Dashboard Analysis**
 
 **Introduction:**
 This project involves an in-depth analysis of Blinkit's sales performance and customer satisfaction using a comprehensive dashboard created in Power BI. The primary objective is to provide actionable insights into sales trends, product performance, and customer satisfaction metrics to inform strategic decision-making and enhance business performance. The dashboard includes various visualizations that present key performance indicators (KPIs) and detailed analyses of different aspects of the business.
@@ -34,7 +32,8 @@ The scope of this project includes:
 - Providing actionable insights and recommendations based on the analysis.
 
 ### Data Sources
-The data used in this project is sourced from Blinkit's sales and customer feedback databases. The data includes:
+The data used in this project is sourced from Blinkit's sales and customer feedback databases and can be downloaded [here](https://github.com/Elohim00/Elohimanalyst/raw/PROJECT/BlinkIT%20Grocery%20Data%20(1).xlsx).
+ The data includes:
 - Sales transaction records.
 - Product details and categories.
 - Outlet information (size, location, type).
@@ -43,8 +42,6 @@ The data used in this project is sourced from Blinkit's sales and customer feedb
 ## Data Description
 
 ### Data Overview
-The dataset used for this analysis can be downloaded  [here](https://github.com/Elohim00/Elohimanalyst/raw/PROJECT/BlinkIT%20Grocery%20Data%20(1).xlsx) .
-
 The dataset comprises several key variables:
 - **Total Sales:** Aggregate revenue from sales transactions.
 - **Average Sales:** Mean value of sales per transaction.
